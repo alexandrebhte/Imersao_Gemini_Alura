@@ -1,6 +1,6 @@
 # Imersao_Gemini_Alura
 
-# Projeto de Buscar de Pessoas Desaparecidas
+# Projeto para Busca de Pessoas Desaparecidas
 
 ## Sobre o Projeto
 Este projeto tem como objetivo simular a busca por pessoas desaparecidas, fornecendo informações e recursos para ilustrar como tal sistema poderia funcionar.
